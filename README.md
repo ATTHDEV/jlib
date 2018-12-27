@@ -1,6 +1,6 @@
 # JSON parser for Go
 
-Easy to use library for using json in golang
+Easy to use library for using JSON in Go
 
 **Getting Started**
 ---
