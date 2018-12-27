@@ -4,7 +4,6 @@ Easy to use library for using json in golang
 
 **Getting Started**
 ---
----
 
 ## Install
 
@@ -110,6 +109,5 @@ go test
 ```
 
 **License**
----
 ---
 MIT
